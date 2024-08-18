@@ -841,6 +841,9 @@ a {
 .uppercase {
   text-transform: uppercase;
 }
+.underline {
+  text-decoration-line: underline;
+}
 .outline-none {
   outline: 2px solid transparent;
   outline-offset: 2px;
